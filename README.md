@@ -1,6 +1,6 @@
 # California-Housing-Price-Prediction
 California Housing Price Prediction: Advanced ML Pipeline
-Project Status: 🚀 Production-Ready
+Project Status:  Production-Ready
 
 ## Overview
 This project implements a robust, industry-standard machine learning pipeline for predicting California housing prices using the classic California Housing Dataset. The pipeline features advanced preprocessing, custom feature engineering, systematic model evaluation, and comprehensive diagnostics, demonstrating best practices for real-world ML deployment.
